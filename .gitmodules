@@ -1,0 +1,6 @@
+[submodule "cti_sensors"]
+	path = cti_sensors
+	url = https://github.com/EltonCN/cti_sensors
+[submodule "cti_android"]
+	path = cti_android
+	url = https://github.com/EltonCN/cti_android

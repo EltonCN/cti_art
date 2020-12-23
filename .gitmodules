@@ -4,3 +4,6 @@
 [submodule "cti_android"]
 	path = cti_android
 	url = https://github.com/EltonCN/cti_android
+[submodule "cti_image"]
+	path = cti_image
+	url = https://github.com/EltonCN/cti_image
